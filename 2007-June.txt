@@ -1,0 +1,14 @@
+From sjakub at gmail.com  Sun Jun 10 05:24:36 2007
+From: sjakub at gmail.com (Jakub Schmidtke)
+Date: Sun, 10 Jun 2007 05:24:36 +0200
+Subject: [Lapsus-general] Mailing list
+Message-ID: <200706100524.36736.sjakub@gmail.com>
+
+
+Lapsus' mailing list.
+
+Feel free to post any questions, bug details,
+feature requests and suggestions :)
+
+
+
